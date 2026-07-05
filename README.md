@@ -12,12 +12,12 @@ I am ✨ Erna Susilowati✨ , Results-driven AI Data Analyst with a strong mathe
 - 🐍 Automating analytics workflows using Python
 - 🚀 Creating AI copilots that simplify business decision-making
 - 📚 Continuously learning Generative AI, Machine Learning, and modern data technologies
-🛠 Skills
+## 🛠 Skills
 •	Programming languages: Python, SQL, DAX, JavaScript
 •	Data Visualization/Business Intelligence: Excel, Tableau, Power BI, Power BI, Streamlit, Looker Studio, Chart.js, Plotly
 •	Data Analysis : NumPy, Pandas
 •	Generative AI/ LLM: Langchain, Llama, Vector database, Chroma, Retrieval Augmented Generation (RAG), Prompt engineering
-📫 How to Reach Me
+#📫 How to Reach Me
        
-❤ By Erna Susilowaty 
+##❤ By Erna Susilowaty 
 
